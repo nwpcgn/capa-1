@@ -1,0 +1,5 @@
+{
+	"appId": "example.sveltekit.capacitor",
+	"appName": "sveltekit-capacitor",
+	"webDir": "build"
+}
